@@ -21,6 +21,18 @@ In phase two, Jeffrey changes tactics. He stops using **Blink**, which slows him
 
 In his final phase, Jeffrey is done playing around and becomes highly aggressive. He abandons his ranged attacks and focuses on overwhelming you with rapid **Blink** teleports and devastating **Fire Explosions**. He moves erratically and will try to stay right on top of you, making this a chaotic and dangerous finale.
 
+## Installation
+
+**Minecraft Version:** This datapack is for Minecraft: Java Edition version **1.19.3**.
+
+**How to Install:**
+1.  Download the latest .zip of the datapack from this GitHub.
+2.  Open Minecraft and select the world you want to install the datapack in.
+3.  Click "Edit" and then "Open World Folder".
+4.  In the world folder, open the `datapacks` folder.
+5.  Place the downloaded datapack .zip file or folder into the `datapacks` folder.
+6.  If you are in the world, run the `/reload` command. If you are not, the datapack will be enabled when you load the world.
+
 ## How to Summon
 
 You can summon a pre-made Jeffrey with the following command:
