@@ -1,0 +1,25 @@
+{
+    "name": "jeffrey:arena/side/up",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "jeffrey:void/arena/side_up",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "jeffrey:void/arena/side_to_up",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

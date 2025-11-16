@@ -1,0 +1,25 @@
+{
+    "name": "jeffrey:arena/back/down",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "jeffrey:void/arena/back_down_1",
+          "processors": "minecraft:empty"
+        }
+      },
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "jeffrey:void/arena/back_down_2",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  

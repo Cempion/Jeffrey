@@ -1,0 +1,16 @@
+{
+    "name": "jeffrey:arena/altar",
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "weight": 1,
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "jeffrey:void/arena/altar_down_all_up",
+          "processors": "minecraft:empty"
+        }
+      }
+    ]
+  }
+  
