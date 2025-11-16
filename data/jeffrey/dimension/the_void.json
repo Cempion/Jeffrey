@@ -3,6 +3,7 @@
     "generator": {
       "type": "minecraft:noise",
       "settings": {
+        "name": "jeffrey:the_void",
         "sea_level": 0,
         "disable_mob_generation": true,
         "aquifers_enabled": false,
